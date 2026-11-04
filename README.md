@@ -3,8 +3,7 @@
 Mini progetto con path parameters, query parameters, request body e validazione.
 
 ## Avvio con VS Code (consigliato)
-Doppio clic su `catalogo_libri.code-workspace`: VS Code si apre e (alla prima volta chiede il permesso)
-lancia da solo il server. Poi vai su http://127.0.0.1:8000/docs
+Poi vai su http://127.0.0.1:8000/docs
 
 ## Avvio (Windows / PowerShell)
     .\avvia.ps1
